@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="250px" viewBox="0 0 1366 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Mask Group (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1366" height="250"></rect>
+        <linearGradient x1="100%" y1="47.0012386%" x2="0%" y2="53.0866381%" id="linearGradient-3">
+            <stop stop-color="#489AEA" offset="0%"></stop>
+            <stop stop-color="#0074E4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mask-Group-(1)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(-72.000000, -111.000000)">
+                    <rect id="Rectangle" stroke="none" fill="url(#linearGradient-3)" fill-rule="nonzero" x="72" y="0" width="1366" height="471"></rect>
+                    <path d="M0,208 C69,188.5 220.7,157.3 275.5,188.5 C330.3,219.7 392.333,342.167 416.5,399.5 L899,386 C823.833,343.667 672.1,244.9 666.5,188.5 C660.9,132.1 756.5,51 805,17.5 L1039,41.5 C1042.167,65.8333 1058.1,121.9 1096.5,151.5 C1134.9,181.1 1378.5,101.83333 1495.5,58.5 L1510,455 C1465.5,390.333 1362.1,259.6 1304.5,254 C1246.9,248.4 1074.83,326.667 996,366.5" id="Path" stroke-opacity="0.15" stroke="#FFFFFF" stroke-width="15" fill="none"></path>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="160" cy="134" r="9"></circle>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="552" cy="226" r="9"></circle>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="674" cy="361" r="9"></circle>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="917" cy="146" r="9"></circle>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="1265" cy="311" r="9"></circle>
+                    <circle id="Oval" stroke="none" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" cx="1438" cy="227" r="9"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="8" fill="none" cx="312" cy="361" r="17"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="8" fill="none" cx="83" cy="281" r="17"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="8" fill="none" cx="454" cy="111" r="17"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="8" fill="none" cx="949" cy="332" r="17"></circle>
+                    <circle id="Oval" stroke-opacity="0.6" stroke="#FFFFFF" stroke-width="8" fill="none" cx="1339" cy="182" r="17"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
