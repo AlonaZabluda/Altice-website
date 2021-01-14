@@ -4,7 +4,10 @@
 
 
 
-![Altice-website screen]()
+![Altice-website screen1](https://github.com/AlonaZabluda/Altice-website/blob/main/mockup/screen1.png)
+![Altice-website screen2](https://github.com/AlonaZabluda/Altice-website/blob/main/mockup/screen2.png)
+
+
 
 ## Introduction
 
